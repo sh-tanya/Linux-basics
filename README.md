@@ -1,2 +1,2 @@
 # Linux-basics
-Linux system installation and updates. Administration basics.
+Project by School 21. Linux system installation and updates. Administration basics.
